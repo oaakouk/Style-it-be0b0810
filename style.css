@@ -1,3 +1,19 @@
-input {
-	padding: 1em;
+h1
+	{
+	color: black;
+	}
+	h2
+	{
+	color: black 
+	}
+	h2
+	{
+	background-color: white
+	}
+	
+	h3
+	{
+	background-color: black
+	}
+input {padding: 10em
 }
